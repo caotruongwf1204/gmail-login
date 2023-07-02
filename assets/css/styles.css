@@ -129,6 +129,9 @@ select {
   align-items: center;
   top: 0;
 }
+.btn button:hover {
+  background-color: rgb(96, 144, 216);
+}
 .meet {
   padding: 30px 40px;
 }
